@@ -56,3 +56,5 @@
   (when window-system (set-fontset-font "fontset-default" '(#x600 . #x6ff) "Janna LT Bold"))
   (use-package magit :ensure t)
   )
+
+;; now_OD93y1peUHfLyVUWrcWvKDSz7WQmQg3UoIi5
