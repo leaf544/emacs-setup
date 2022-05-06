@@ -1,0 +1,40 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*- 
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("q"
+ (filename . "~/quran/")
+ (front-context-string . "0.org\n  -rwxrwxr")
+ (rear-context-string . "83 Apr 26 13:54 ")
+ (position . 214))
+("h"
+ (filename . "~/hooks.el")
+ (front-context-string . ";; REQUIREMENTS\n")
+ (rear-context-string)
+ (position . 1))
+("filler.cc"
+ (filename . "~/filler.cc")
+ (front-context-string . "\n        }\n     ")
+ (rear-context-string . "];\n            }")
+ (position . 561))
+("s"
+ (filename . "~/Desktop/private-new-age/core.cc")
+ (front-context-string . "/* Written by le")
+ (rear-context-string)
+ (position . 1))
+("m"
+ (filename . "/mnt/6C1EC2791EC23BB8/")
+ (front-context-string . "$RECYCLE.BIN\n  -")
+ (rear-context-string . "96 May 10  2021 ")
+ (position . 219))
+("hotties.txt"
+ (filename . "/mnt/6C1EC2791EC23BB8/emacs/hotties.txt")
+ (front-context-string . "https://nhentai.")
+ (rear-context-string)
+ (position . 1))
+("main.py"
+ (filename . "~/NewAge/main.py")
+ (front-context-string . "from time import")
+ (rear-context-string)
+ (position . 1))
+)

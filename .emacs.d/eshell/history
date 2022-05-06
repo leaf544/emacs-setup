@@ -1,0 +1,128 @@
+ps aux
+kill -9 2039
+kill -9 2039
+clear l
+clear
+clear l
+ps aux
+clear
+top
+cd ..
+cd ..
+clear l
+xbps-query -Rs httrack
+clear
+clear l
+mkdir void_doc
+cd void_doc/
+clear l
+wget -r "https://docs.voidlinux.org/"
+clear l
+patch
+clear l
+clear
+clear l
+cd ~/
+clear l
+ps aux
+kill -9 4425
+clear
+clear l
+ps aux
+kill -9 19856
+ps aux
+clear l
+ps aux
+clear l
+ln -s /etc/wpa_supplicant/ /var/service
+exit
+ps aux
+kill -9 20916
+kill -9 20916
+xit
+ezirt
+exit
+clear l
+locale -a
+clear
+clear l
+$HOME
+HOME
+echo $HOME
+$pwd
+pwd
+(($PWD == $HOME))
+$((PWD==HOME))
+$(($PWD==$HOME))
+$(($PWD==$HOME))
+(($PWD==$HOME))
+($PWD==$HOME)
+$($PWD==$HOME)
+clear
+exit
+fc-cache -fv
+clear l
+whereis
+clear
+clear l
+whereis
+whereis --help
+whereis -u fonts
+fc-cache -fv
+clear l
+fdisk -l
+cdfisk /dev/sda3
+cfdisk /dev/sda3
+lear
+clear
+clear l
+exit
+clear l
+sudo su
+clear l
+sudo xbps-pkgdb -u 
+xbps-install -Syu
+clearnss-3.78_1: updated successfully.
+clear
+xbps-install xfce4
+xbps-install lightdm lightdm-gtk-greeter
+clear l
+exit
+timezone
+help timezone
+man timezone
+clear
+export TZ=Asia/Riyadh
+cls
+exit
+clear l
+date
+/etc/localtime
+sudo /etc/local
+sudo /etc/localtime
+sudo cat /etc/localtime
+clear
+clear l
+cd /
+clear
+cd 
+clearl
+clear l
+ln -sf /usr/share/zoneinfo/Asia/Jerusalem /var/service
+date
+ln -sf /usr/share/zoneinfo/Asia/Jerusalem /etc/localtime 
+date
+hwclock
+clear l
+date
+clear l
+ls
+clear
+clear l
+ln -sf /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
+date
+hwclock
+clear l
+clear l
+sudo xbps-install -Su
+sudo xbps-query -Rs nvidia
